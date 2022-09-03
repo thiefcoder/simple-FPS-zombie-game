@@ -3,7 +3,7 @@
 *zombie
 * Pick-up system
 * Opening the door with a key
-* Spawning anime and player
+* Spawning enimy and player
 * UI player
 * Weapon switch
 * Animation set
